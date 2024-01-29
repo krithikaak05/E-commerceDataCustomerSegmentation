@@ -27,7 +27,7 @@ The project's motivation stems from the transformative potential of leveraging R
    - Leveraged kNN clustering to further dissect customer behavior, revealing three clusters representing unique customer profiles.
    - Considered the proximity of customers in the feature space, providing a different perspective on segmentation.
 
-4. **Choosing Both RFM and kNN?**
+4. **Choosing Both RFM and KNN?**
    - The strategic decision to use both RFM and kNN: RFM for detailed segmentation and precise targeting, kNN for a holistic view of customer proximity.
    - RFM offered depth in understanding transaction patterns, while kNN provided breadth by considering a holistic view of customer proximity.
    - The combination ensures a comprehensive analysis, yielding well-rounded and actionable insights.
